@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_354081_sample_ap_sample</description>
+        <name>x_354081_sample_ap_sample</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-25 08:32:18</sys_created_on>
+        <sys_id>1c093e3cdb923300262ed426ca96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_354081_sample_ap_sample</sys_name>
+        <sys_package display_value="Sample Application" source="x_354081_sample_ap">f388fa38db923300262ed426ca9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample Application">f388fa38db923300262ed426ca9619b4</sys_scope>
+        <sys_update_name>sys_security_acl_1c093e3cdb923300262ed426ca96198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-25 08:32:18</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

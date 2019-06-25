@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SampleTable" max_length="40" name="x_354081_sample_ap_sample" type="collection">
+        <element label="col1" max_length="40" name="col1" type="string"/>
+        <element label="col2" max_length="40" name="col2" type="string"/>
+    </element>
+</database>

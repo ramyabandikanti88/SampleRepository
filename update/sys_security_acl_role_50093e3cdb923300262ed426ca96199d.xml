@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-25 08:32:19</sys_created_on>
+        <sys_id>50093e3cdb923300262ed426ca96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_354081_sample_ap_sample.x_354081_sample_ap.sample_user</sys_name>
+        <sys_package display_value="Sample Application" source="x_354081_sample_ap">f388fa38db923300262ed426ca9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample Application">f388fa38db923300262ed426ca9619b4</sys_scope>
+        <sys_security_acl display_value="x_354081_sample_ap_sample">10093e3cdb923300262ed426ca96199a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_50093e3cdb923300262ed426ca96199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-25 08:32:19</sys_updated_on>
+        <sys_user_role display_value="x_354081_sample_ap.sample_user" name="x_354081_sample_ap.sample_user">84093af8db923300262ed426ca961931</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
