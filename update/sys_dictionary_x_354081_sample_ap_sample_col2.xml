@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-25 08:32:18</sys_created_on>
-        <sys_id>2dc8faf8db923300262ed426ca9619ae</sys_id>
+        <sys_id>183d97fcdb163300262ed426ca96195a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>col2</sys_name>
         <sys_package display_value="Sample Application" source="x_354081_sample_ap">f388fa38db923300262ed426ca9619b4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sample Application">f388fa38db923300262ed426ca9619b4</sys_scope>
         <sys_update_name>sys_dictionary_x_354081_sample_ap_sample_col2</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-25 08:32:18</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-06-25 11:10:25</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
